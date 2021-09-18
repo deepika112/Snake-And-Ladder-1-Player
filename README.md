@@ -49,3 +49,16 @@ The functions used are:
   Plateform: TURBO CPP
   
   Header Files: iostream, graphics, conio, dos
+  
+  Below is the screenshots of the project:
+
+![Screenshot (257)](https://user-images.githubusercontent.com/68001066/133897047-dfed9d6a-6a43-42fb-9aae-5b8583c1b08b.png)
+
+![Screenshot (258)](https://user-images.githubusercontent.com/68001066/133897051-378eb46a-79cb-41ac-a2be-66ff29eaf058.png)
+
+![Screenshot (261)](https://user-images.githubusercontent.com/68001066/133897055-cca87c4c-1be5-4568-a3d0-0e15c2429df3.png)
+
+![Screenshot (262)](https://user-images.githubusercontent.com/68001066/133897057-9b692a84-e9dc-4aca-a653-1289c556dfff.png)
+
+
+
